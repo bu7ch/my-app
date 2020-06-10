@@ -12,4 +12,7 @@ export class UserService {
   getUsers() {
     return this.http.get(`${this.apiUrl}?per_page=10`);
   }
+  getUser(username: string){
+    return this.http.get(`${this.apiUrl}/${username}`)
+  }
 }
