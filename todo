@@ -1,0 +1,20 @@
+ LARAVEL comprehension :
+  ✔ installation 
+   concepts de base:
+    ✔ MVC 
+    ✔ routes 
+    Laravel routing:
+      ✔ template engine "BLADE" 
+      ✔ synthax blade : https://laravel.com/docs/8.x/blade 
+      ✔ Controller in Laravel
+      ✔ middleware 
+      ✔ href protected by function 
+    Laravel Authentication :
+      ✔ creation DB et config 
+      ☐ Laravel Authentication install :
+        // "npm install && npm run dev" to build your assets.
+        ✔ install Jetstream 
+        ✔ install livewire 
+        
+
+      
